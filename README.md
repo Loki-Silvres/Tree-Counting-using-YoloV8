@@ -6,9 +6,9 @@ A basic transfer learning application of Ultralytics-YoloV8 for object detection
 
 ## Examples
 - **Sample image**
-![Sample](https://github.com/Loki-Silvres/Tree-Counting-using-YoloV8/blob/main/data/Count_trees_in_this_file.png)
+  - ![Sample](https://github.com/Loki-Silvres/Tree-Counting-using-YoloV8/blob/main/data/Count_trees_in_this_file.png)
 - **Detections**: Approx. 850 detections 
-![Detections](https://github.com/Loki-Silvres/Tree-Counting-using-YoloV8/blob/main/Count_trees_in_this_file.png)
+  - ![Detections](https://github.com/Loki-Silvres/Tree-Counting-using-YoloV8/blob/main/Count_trees_in_this_file.png)
 
 ## References
 - [Ultralytics-YoloV8 repo](https://github.com/ultralytics/ultralytics)
