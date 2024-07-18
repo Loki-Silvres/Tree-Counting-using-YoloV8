@@ -1,0 +1,6 @@
+path: /home/loki/tree_counting/data
+train: images/train
+val: images/val
+
+names:
+  0: tree
