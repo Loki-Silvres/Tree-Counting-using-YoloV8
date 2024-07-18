@@ -1,1 +1,5 @@
-Dataset link: https://www.kaggle.com/datasets/lokisilvres/tree-counting-dataset-yolo-format
+- **Dataset**:
+  - https://www.kaggle.com/datasets/lokisilvres/tree-counting-dataset-yolo-format
+- **Credits**:
+  - https://www.kaggle.com/datasets/riotulab/aerial-images-of-palm-trees
+  - Ammar, A., Koubaa, A. and Benjdira, B., 2021. Deep-learning-based automated palm tree counting and geolocation in large farms from aerial geotagged images. Agronomy, 11(8), p.1458.
